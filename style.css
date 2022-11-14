@@ -21,9 +21,8 @@ a {
 }
 
 img {
-    animation: flicker 1.5s infinite alternate;
-    border: 0.4rem solid #fff;
-    border-radius: 2rem;
+
+    width: 640px;;
 }
 
 h1 {
